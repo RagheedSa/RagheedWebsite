@@ -8,7 +8,7 @@
     "email": "Ragheed.sa@hotmail.com",
     "phone": "+966565512415",
     "github":"https://github.com/RagheedSa",
-    "project":"https://github.com/RagheedSa/TheAppWithMap",
+    "project":"https://www.linkedin.com/in/ragheedsa/",
     "address":{
       "street":"Ibn Sinan AlKhafaji Street",
       "city":"Jeddah",
@@ -45,24 +45,29 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University",
-        "degree":"University of Jeddah",
+        "school":"University of Jeddah",
+        "degree":"Information Technology",
         "graduated":"March 2021",
-        "description":" "
+        "description":"Bachelor of Information Technology GPA 4.42/5"
       }
     ],
     "work":[
       {
-        "company":"Saudi Airlines (IT Department)",
-        "title":"IT Trainee ",
-        "years":"Sep 2020 - Nov 2020",
-        "description":"Conducted a full application development life cycle, Integrated in back-end implementation, Operated in front-end design and development."
+        "company":"HAWSABAH IT Consulting",
+        "title":"Front End Developer",
+        "years":"July 2021 - Present",
+        "description":"Maintained, Developed, and designed e-commerce website using React framework and REST API's, Developed and designed E-invoicing system with QR code generator, Delivered a responsive web design, single page website using HTML5 grid layouts and CSS."
       },
       {
         "company":"Attar Software Engineering",
         "title":"Programmer Trainee",
         "years":"May 2021 - July 2021",
         "description":"Integrated in transforming the old systems of the company into new versions, Programmed a full front-end for POS system using Angular ( TypeScript ), Assisted in programming back-end for the new system."
+      },{
+        "company":"Saudi Airlines (IT Department)",
+        "title":"IT Trainee ",
+        "years":"Sep 2020 - Nov 2020",
+        "description":"Conducted a full application development life cycle, Integrated in back-end implementation, Operated in front-end design and development."
       }
     ],
     "skills":[
